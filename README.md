@@ -2,9 +2,6 @@
 
 Our project is an online networking platform designed to connect students with industry professionals, providing tailored mentorship experiences and valuable networking opportunities. Inspired by the need to bridge the gap between students' educational journey and real-world industry insights, our platform aims to facilitate meaningful connections and career development.
 
-
-README updated March 15 2024
-
 ## Application Rundown
 
 - The navigation bar at the top of the application redirects the user to different pages - Home - Matching - MainCalendar - Resources - VideoEmbedding - User profile
@@ -69,8 +66,6 @@ README updated March 15 2024
 
 - The user can join a call, turn on their camera, unmute themselves and talk.
 - In order to test multiple people on call, the user should open up a private/incognito window with the localhost and they can join in with another username.
-
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13352842)
 
 ### User Profile
 - Retrieves the user's profile information from the server using a fetch request with the user's ID token for authentication.
